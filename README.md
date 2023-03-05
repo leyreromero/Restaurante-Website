@@ -3,10 +3,8 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Requirements & Usage](#requirements)
-- [Built with](#builtwith)
-- [Demo](#builtwith)
-- [Screenshots](#screenshots)
+- [Requirements](#requirements)
+- [Demo & screenshots](#screenshots)
 
 ## Introduction <a name = "introduction"></a>
 
