@@ -8,7 +8,7 @@
 
 ## Introduction <a name = "introduction"></a>
 
-This is my first website using HTML and CSS. A restaurant website that contains three sentions: Home/Menu/Contact wich name is Savanna. That's under the 'bootcamp'training of the Geekshubs Academy.
+This is my first website using HTML and CSS with Bootstrap. A restaurant website that contains three sentions: Home/Menu/Contact wich name is Savanna. That's under the 'bootcamp'training of the Geekshubs Academy.
 
 ## Requirements<a name = "requirements"></a>
 
