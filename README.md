@@ -16,7 +16,7 @@ The only requirement is to have a code editor like "Visual Studio Code" for exam
 
 ### Demo & screenshoots
 
-To preview the demo <a href="https://leyreromero.github.io/restaurant-ok/" > tap here </a>.
+To preview the demo <a href="https://leyreromero.github.io/Restaurante-Website/" > tap here </a>.
 
 <img src="./images/capt-phone.png" alt="preview website phone size" width="300" heigth="500">
 <img src="./images/capt-ipad.png"  alt="preview website ipad" width="300" heigth="500"> <img src="./images/capt-pc.png" alt="preview website-desktop" width="300" heigth="500">
