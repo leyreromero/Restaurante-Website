@@ -4,7 +4,7 @@
 
 - [Introduction](#introduction)
 - [Requirements](#requirements)
-- [Demo & screenshots](#screenshots)
+- [Demo & screenshots](#demo&screenshoots)
 
 ## Introduction <a name = "introduction"></a>
 
@@ -14,7 +14,7 @@ This is my first website using HTML and CSS with Bootstrap. A restaurant website
 
 The only requirement is to have a code editor like "Visual Studio Code" for example.
 
-### Demo & screenshoots
+### Demo & screenshoots<a name = "demo&screenshoots"></a>
 
 To preview the demo <a href="https://leyreromero.github.io/Restaurante-Website/" > tap here </a>.
 
